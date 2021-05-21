@@ -1,0 +1,15 @@
+C:\Delo\2Letnik\URG\Vaja3\Vaja3\obj\Debug\Vaja3.csprojAssemblyReference.cache
+C:\Delo\2Letnik\URG\Vaja3\Vaja3\obj\Debug\MainWindow.g.cs
+C:\Delo\2Letnik\URG\Vaja3\Vaja3\obj\Debug\App.g.cs
+C:\Delo\2Letnik\URG\Vaja3\Vaja3\obj\Debug\Vaja3_MarkupCompile.cache
+C:\Delo\2Letnik\URG\Vaja3\Vaja3\obj\Debug\Vaja3_MarkupCompile.lref
+C:\Delo\2Letnik\URG\Vaja3\Vaja3\bin\Debug\Vaja3.exe.config
+C:\Delo\2Letnik\URG\Vaja3\Vaja3\bin\Debug\Vaja3.exe
+C:\Delo\2Letnik\URG\Vaja3\Vaja3\bin\Debug\Vaja3.pdb
+C:\Delo\2Letnik\URG\Vaja3\Vaja3\obj\Debug\MainWindow.baml
+C:\Delo\2Letnik\URG\Vaja3\Vaja3\obj\Debug\Vaja3.g.resources
+C:\Delo\2Letnik\URG\Vaja3\Vaja3\obj\Debug\Vaja3.Properties.Resources.resources
+C:\Delo\2Letnik\URG\Vaja3\Vaja3\obj\Debug\Vaja3.csproj.GenerateResource.cache
+C:\Delo\2Letnik\URG\Vaja3\Vaja3\obj\Debug\Vaja3.csproj.CoreCompileInputs.cache
+C:\Delo\2Letnik\URG\Vaja3\Vaja3\obj\Debug\Vaja3.exe
+C:\Delo\2Letnik\URG\Vaja3\Vaja3\obj\Debug\Vaja3.pdb

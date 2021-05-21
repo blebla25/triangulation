@@ -1,0 +1,15 @@
+C:\Users\mihec\Documents\Github\triangulation\triangulation\triangulation\bin\Debug\Vaja3.exe.config
+C:\Users\mihec\Documents\Github\triangulation\triangulation\triangulation\bin\Debug\Vaja3.exe
+C:\Users\mihec\Documents\Github\triangulation\triangulation\triangulation\bin\Debug\Vaja3.pdb
+C:\Users\mihec\Documents\Github\triangulation\triangulation\triangulation\obj\Debug\triangulation.csprojAssemblyReference.cache
+C:\Users\mihec\Documents\Github\triangulation\triangulation\triangulation\obj\Debug\MainWindow.g.cs
+C:\Users\mihec\Documents\Github\triangulation\triangulation\triangulation\obj\Debug\App.g.cs
+C:\Users\mihec\Documents\Github\triangulation\triangulation\triangulation\obj\Debug\Vaja3_MarkupCompile.cache
+C:\Users\mihec\Documents\Github\triangulation\triangulation\triangulation\obj\Debug\Vaja3_MarkupCompile.lref
+C:\Users\mihec\Documents\Github\triangulation\triangulation\triangulation\obj\Debug\MainWindow.baml
+C:\Users\mihec\Documents\Github\triangulation\triangulation\triangulation\obj\Debug\Vaja3.g.resources
+C:\Users\mihec\Documents\Github\triangulation\triangulation\triangulation\obj\Debug\Vaja3.Properties.Resources.resources
+C:\Users\mihec\Documents\Github\triangulation\triangulation\triangulation\obj\Debug\triangulation.csproj.GenerateResource.cache
+C:\Users\mihec\Documents\Github\triangulation\triangulation\triangulation\obj\Debug\triangulation.csproj.CoreCompileInputs.cache
+C:\Users\mihec\Documents\Github\triangulation\triangulation\triangulation\obj\Debug\Vaja3.exe
+C:\Users\mihec\Documents\Github\triangulation\triangulation\triangulation\obj\Debug\Vaja3.pdb
